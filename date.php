@@ -5,4 +5,5 @@ echo date('d/m/Y H:i:s');
 print "\n";
 echo date('h:i:s');
 print "\n";
+print "\n";
 ?>
